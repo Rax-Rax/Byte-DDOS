@@ -31,7 +31,7 @@ Rapid HTTP requests overwhelm application servers (L7)
 8. No external dependencies — compiles with gcc and standard libraries only
 # INSTALLATION
 must have git installed
-execute 
+execute "git clone https://github.com/Rax-Rax/Byte-DDOS.git"
 # tool usage (byte)
 for acknowledging (byte) usage please execute/inject the compiled C file (USAGE)
 ex: run "./USAGE"
