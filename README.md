@@ -29,6 +29,9 @@ Rapid HTTP requests overwhelm application servers (L7)
 6. HTTP randomization — random URI paths, custom User-Agent strings, varied headers
 7. Slowloris persistence — sends headers at 50-150ms intervals to hold connections for minutes
 8. No external dependencies — compiles with gcc and standard libraries only
+# INSTALLATION
+must have git installed
+execute 
 # tool usage (byte)
 for acknowledging (byte) usage please execute/inject the compiled C file (USAGE)
 ex: run "./USAGE"
