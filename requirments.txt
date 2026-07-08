@@ -1,0 +1,1 @@
+u dont need anything lol just gcc compiler which im pretty sure every standard terminal has
