@@ -35,6 +35,9 @@ execute "git clone https://github.com/Rax-Rax/Byte-DDOS.git"
 # tool usage (byte)
 for acknowledging (byte) usage please execute/inject the compiled C file (USAGE)
 ex: run "./USAGE"
+if error compile the C files to match it with ur system using clang/gcc
+example: gcc -o Byte Byte.c
+same with usage.c
 # NOTE
 perfomance files can reach up to more than 500k-2m packets per sec 
 # LEGAL NOTICE
